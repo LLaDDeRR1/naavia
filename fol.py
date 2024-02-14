@@ -5,5 +5,5 @@ while n > 0:
     ost = n % 7
     n = n // 7
     otvet += ost
-
+po=908
 print(otvet)
